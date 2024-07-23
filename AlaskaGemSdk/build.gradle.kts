@@ -76,7 +76,7 @@ afterEvaluate {
 
                 groupId = "com.alpharays.alaskagemsdk"
                 artifactId = "myalaskagemsdk"
-                version = "0.0.3-alpha"
+                version = "0.1.0-release"
             }
         }
     }
